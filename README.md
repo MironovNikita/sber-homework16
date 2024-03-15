@@ -114,7 +114,7 @@ Process finished with exit code 0
 
 Как видно из результатов, считывание из базы данных происходит несколько быстрее, нежели новый расчёт. Соответственно можем убедиться, что данные действительно сохранились в базе данных:
 
-![fibonacci](https://github.com/MironovNikita/sber-homework16/blob/main/res/fibonacci.gif)
+![fibonacci](https://github.com/MironovNikita/sber-homework16/blob/main/res/fibonacci.png)
 
 Результат сборки текущего проекта:
 
